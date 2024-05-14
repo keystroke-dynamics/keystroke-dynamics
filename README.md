@@ -1,2 +1,0 @@
-#### Reference
-Yan Sun, Hayreddin Ceker and Shambhu Upadhyaya, “Shared Keystroke Dataset for Continuous Authentication”, 8th IEEE International Workshop on Information Forensics and Security, Abu Dhabi, UAE, December 2016
